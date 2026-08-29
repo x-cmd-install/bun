@@ -1,0 +1,73 @@
+about:
+  description: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+  license: NOASSERTION
+  homepage: https://bun.com
+  head: 85de256
+  archived: false
+  latestVersion: bun-v1.4.0
+  collectedAt: 2026-08-29T07:15:23Z
+timeline:
+  created: 2021-04-14
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-20
+popularity:
+  star: 95781
+  watcher: 628
+  fork: 5018
+  release: 215
+  contributor: 911
+  pullRequest: 11634
+  issue: 17834
+language:
+  Rust: 41366526
+  C++: 11801922
+  TypeScript: 5610049
+  C: 1436118
+  JavaScript: 1046061
+  Shell: 191303
+  Python: 64549
+  PowerShell: 61121
+  CSS: 36510
+  Perl: 27120
+  Dockerfile: 25843
+  HCL: 22115
+  Linker Script: 12352
+  Nix: 7878
+  Svelte: 7198
+  HTML: 3224
+  Makefile: 1169
+  MDX: 864
+totalLine: 61721922
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 916
+    openPR: 2432
+    closedIssue: 206
+    openIssue: 286
+    commit: 1352
+  last90d:
+    since: 2026-05-31
+    release: 1
+    mergedPR: 2023
+    openPR: 4596
+    closedIssue: 619
+    openIssue: 493
+    commit: 2843
+  last180d:
+    since: 2026-03-02
+    release: 5
+    mergedPR: 2914
+    openPR: 5000
+    closedIssue: 1328
+    openIssue: 805
+    commit: 4159
+  last360d:
+    since: 2025-09-03
+    release: 18
+    mergedPR: 3994
+    openPR: 5105
+    closedIssue: 3245
+    openIssue: 1365
+    commit: 6511
