@@ -2,25 +2,25 @@ about:
   description: "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
   license: NOASSERTION
   homepage: https://bun.com
-  head: ae3c3ad
+  head: 3f2610e
   archived: false
   latestVersion: "bun-v1.4.2"
-  collectedAt: 2026-09-07T06:13:44Z
+  collectedAt: 2026-09-07T18:18:00Z
 timeline:
   created: 2021-04-14
   lastCommit: 2026-09-07
   lastRelease: 2026-09-05
 popularity:
-  star: 95897
+  star: 95905
   watcher: 632
-  fork: 5043
+  fork: 5042
   release: 217
   contributor: 911
-  pullRequest: 22544
-  issue: 17943
+  pullRequest: 22569
+  issue: 17965
 language:
-  Rust: 41709897
-  C++: 11817928
+  Rust: 41705839
+  C++: 11817197
   TypeScript: 5999947
   C: 1399882
   JavaScript: 1067554
@@ -37,81 +37,81 @@ language:
   HTML: 3224
   Makefile: 1169
   MDX: 864
-totalBytes: 62458114
+totalBytes: 62453325
 recent:
   last30d:
     since: 2026-08-08
     release: 3
-    mergedPR: 893
-    openPR: 2626
-    closedIssue: 215
-    openIssue: 319
-    commit: 1035
+    mergedPR: 898
+    openPR: 2642
+    closedIssue: 217
+    openIssue: 322
+    commit: 1041
   last60d:
     since: 2026-07-09
     release: 3
-    mergedPR: 1691
-    openPR: 4208
-    closedIssue: 403
-    openIssue: 415
-    commit: 2274
+    mergedPR: 1696
+    openPR: 4223
+    closedIssue: 405
+    openIssue: 418
+    commit: 2280
   last90d:
     since: 2026-06-09
     release: 3
-    mergedPR: 2142
-    openPR: 4904
-    closedIssue: 611
-    openIssue: 518
-    commit: 2944
+    mergedPR: 2147
+    openPR: 4919
+    closedIssue: 613
+    openIssue: 521
+    commit: 2950
   last180d:
     since: 2026-03-11
     release: 7
-    mergedPR: 3086
-    openPR: 5378
-    closedIssue: 1312
-    openIssue: 840
-    commit: 4315
+    mergedPR: 3091
+    openPR: 5393
+    closedIssue: 1317
+    openIssue: 844
+    commit: 4321
   last360d:
     since: 2025-09-12
     release: 20
-    mergedPR: 4148
-    openPR: 5478
-    closedIssue: 3213
-    openIssue: 1401
-    commit: 6559
+    mergedPR: 4153
+    openPR: 5493
+    closedIssue: 3221
+    openIssue: 1406
+    commit: 6565
   last720d:
     since: 2024-09-17
     release: 60
-    mergedPR: 6543
-    openPR: 5586
-    closedIssue: 6916
-    openIssue: 2387
-    commit: 7311
+    mergedPR: 6548
+    openPR: 5601
+    closedIssue: 6932
+    openIssue: 2393
+    commit: 7316
 total:
   release: 217
-  mergedPR: 10304
-  openPR: 5589
-  closedIssue: 14533
-  openIssue: 3410
-  commit: 17894
+  mergedPR: 10309
+  openPR: 5604
+  closedIssue: 14549
+  openIssue: 3416
+  commit: 17899
 ---
 path: /home/runner/.x-repo/github.com/oven-sh/bun
-collectedAt: 2026-09-07T06:16:03Z
+collectedAt: 2026-09-07T18:20:13Z
 loc:
   Rust:
-    code: 794755
-    comments: 100514
-    blanks: 79389
+    code: 794638
+    comments: 100518
+    blanks: 79393
     files: 1532
   TypeScript:
-    code: 783319
-    comments: 125961
-    blanks: 83502
+    code: 783801
+    comments: 125994
+    blanks: 83533
     files: 3253
   JavaScript:
-    code: 607000
-    comments: 54880
-    blanks: 65839
+    code: 607080
+    comments: 54886
+    blanks: 65845
     files: 7664
   Json:
     code: 219069
@@ -124,12 +124,12 @@ loc:
     blanks: 20625
     files: 128
   Cpp:
-    code: 170974
-    comments: 19925
-    blanks: 28252
+    code: 170963
+    comments: 19923
+    blanks: 28251
     files: 606
   CHeader:
-    code: 56088
+    code: 56087
     comments: 28034
     blanks: 13424
     files: 767
@@ -289,15 +289,15 @@ loc:
     blanks: 3712
     files: 120
 total:
-  code: 3011090
-  comments: 570939
-  blanks: 326877
+  code: 3011523
+  comments: 570978
+  blanks: 326916
   files: 17497
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:16:11+00:00
+  collectedAt: 2026-09-07T18:20:17+00:00
   platform:
     darwin/arm64:
       name:  bun-darwin-aarch64.zip
