@@ -5,18 +5,18 @@ about:
   head: b52d3e5
   archived: false
   latestVersion: "bun-v1.4.2"
-  collectedAt: 2026-09-08T03:32:31Z
+  collectedAt: 2026-09-08T06:05:35Z
 timeline:
   created: 2021-04-14
   lastCommit: 2026-09-07
   lastRelease: 2026-09-05
 popularity:
-  star: 95912
+  star: 95916
   watcher: 632
   fork: 5045
   release: 217
   contributor: 911
-  pullRequest: 22611
+  pullRequest: 22644
   issue: 17972
 language:
   Rust: 41703635
@@ -43,7 +43,7 @@ recent:
     since: 2026-08-09
     release: 3
     mergedPR: 888
-    openPR: 2645
+    openPR: 2678
     closedIssue: 211
     openIssue: 325
     commit: 1047
@@ -51,7 +51,7 @@ recent:
     since: 2026-07-10
     release: 3
     mergedPR: 1677
-    openPR: 4236
+    openPR: 4267
     closedIssue: 400
     openIssue: 422
     commit: 2286
@@ -59,7 +59,7 @@ recent:
     since: 2026-06-10
     release: 3
     mergedPR: 2139
-    openPR: 4948
+    openPR: 4979
     closedIssue: 603
     openIssue: 520
     commit: 2956
@@ -67,7 +67,7 @@ recent:
     since: 2026-03-12
     release: 7
     mergedPR: 3087
-    openPR: 5428
+    openPR: 5459
     closedIssue: 1306
     openIssue: 845
     commit: 4327
@@ -75,7 +75,7 @@ recent:
     since: 2025-09-13
     release: 20
     mergedPR: 4151
-    openPR: 5528
+    openPR: 5559
     closedIssue: 3214
     openIssue: 1411
     commit: 6571
@@ -83,20 +83,20 @@ recent:
     since: 2024-09-18
     release: 60
     mergedPR: 6548
-    openPR: 5637
+    openPR: 5668
     closedIssue: 6920
     openIssue: 2395
     commit: 7320
 total:
   release: 217
   mergedPR: 10310
-  openPR: 5640
+  openPR: 5671
   closedIssue: 14550
   openIssue: 3422
   commit: 17905
 ---
 path: /home/runner/.x-repo/github.com/oven-sh/bun
-collectedAt: 2026-09-08T03:34:55Z
+collectedAt: 2026-09-08T06:08:28Z
 loc:
   Rust:
     code: 794602
