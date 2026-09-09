@@ -7,7 +7,7 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager 鈥
 - **Latest release**: `bun-v1.4.2` (2026-09-05)
 - **Last commit**: 2026-09-09
 - **License**: NOASSERTION
-- **Stars**: 95920 路 **Forks**: 5039 路 **Open issues**: 17984 路 **Contributors**: 911
+- **Stars**: 95922 路 **Forks**: 5033 路 **Open issues**: 17988 路 **Contributors**: 910
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/bun> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:25:23Z._
+_Last regenerated: 2026-09-09T20:52:53Z._
