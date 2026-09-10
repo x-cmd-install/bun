@@ -2,12 +2,12 @@ about:
   description: "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
   license: NOASSERTION
   homepage: https://bun.com
-  head: 8541df9
+  head: e5f9986
   archived: false
   latestVersion: "bun-v1.4.2"
   latestRelease: "bun-v1.4.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:00:14Z
+  collectedAt: 2026-09-10T23:00:09Z
 timeline:
   created: 2021-04-14
   lastCommit: 2026-09-10
@@ -16,15 +16,15 @@ timeline:
   lastPrerelease: 
 popularity:
   star: 95929
-  watcher: 631
+  watcher: 632
   fork: 5033
   release: 217
   contributor: 910
-  pullRequest: 22916
+  pullRequest: 22920
   issue: 18000
 language:
   Rust: 41725931
-  C++: 11862998
+  C++: 11863606
   TypeScript: 5619768
   C: 1400967
   JavaScript: 1054007
@@ -41,66 +41,66 @@ language:
   HTML: 3224
   Makefile: 1169
   MDX: 864
-totalBytes: 62124953
+totalBytes: 62125561
 recent:
   last30d:
     since: 2026-08-11
     release: 3
-    mergedPR: 831
-    openPR: 2648
+    mergedPR: 833
+    openPR: 2650
     closedIssue: 216
     openIssue: 318
-    commit: 1098
+    commit: 1101
   last60d:
     since: 2026-07-12
     release: 3
-    mergedPR: 1662
-    openPR: 4399
+    mergedPR: 1664
+    openPR: 4401
     closedIssue: 412
     openIssue: 431
-    commit: 2337
+    commit: 2340
   last90d:
     since: 2026-06-12
     release: 3
-    mergedPR: 2155
-    openPR: 5108
+    mergedPR: 2157
+    openPR: 5110
     closedIssue: 582
     openIssue: 506
-    commit: 3007
+    commit: 3010
   last180d:
     since: 2026-03-14
     release: 7
-    mergedPR: 3117
-    openPR: 5597
+    mergedPR: 3119
+    openPR: 5599
     closedIssue: 1307
     openIssue: 850
-    commit: 4378
+    commit: 4381
   last360d:
     since: 2025-09-15
     release: 19
-    mergedPR: 4174
-    openPR: 5695
+    mergedPR: 4176
+    openPR: 5697
     closedIssue: 3199
     openIssue: 1416
-    commit: 6622
+    commit: 6625
   last720d:
     since: 2024-09-20
     release: 59
-    mergedPR: 6572
-    openPR: 5805
+    mergedPR: 6574
+    openPR: 5807
     closedIssue: 6913
     openIssue: 2399
-    commit: 7349
+    commit: 7351
 total:
   release: 217
-  mergedPR: 10348
-  openPR: 5808
+  mergedPR: 10350
+  openPR: 5810
   closedIssue: 14570
   openIssue: 3430
-  commit: 17942
+  commit: 17944
 ---
 path: /home/runner/.x-repo/github.com/oven-sh/bun
-collectedAt: 2026-09-10T21:02:49Z
+collectedAt: 2026-09-10T23:04:13Z
 loc:
   Rust:
     code: 795117
@@ -108,14 +108,14 @@ loc:
     blanks: 79382
     files: 1533
   TypeScript:
-    code: 778960
+    code: 778973
     comments: 125432
-    blanks: 83524
+    blanks: 83527
     files: 3247
   JavaScript:
-    code: 608614
-    comments: 54904
-    blanks: 65926
+    code: 608733
+    comments: 54918
+    blanks: 65936
     files: 7665
   Json:
     code: 219073
@@ -128,9 +128,9 @@ loc:
     blanks: 20628
     files: 128
   Cpp:
-    code: 171280
+    code: 171286
     comments: 19989
-    blanks: 28259
+    blanks: 28257
     files: 605
   CHeader:
     code: 56410
@@ -293,9 +293,9 @@ loc:
     blanks: 3712
     files: 120
 total:
-  code: 3009375
-  comments: 570438
-  blanks: 327050
+  code: 3009513
+  comments: 570452
+  blanks: 327061
   files: 17492
 ---
 
