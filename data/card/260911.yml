@@ -1,0 +1,302 @@
+about:
+  description: "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+  license: NOASSERTION
+  homepage: https://bun.com
+  head: 6b394bf
+  archived: false
+  latestVersion: "bun-v1.4.2"
+  latestRelease: "bun-v1.4.2"
+  latestPrerelease: ""
+  collectedAt: 2026-09-11T06:16:12Z
+timeline:
+  created: 2021-04-14
+  lastCommit: 2026-09-11
+  lastVersion: 2026-09-05
+  lastRelease: 2026-09-05
+  lastPrerelease: 
+popularity:
+  star: 95935
+  watcher: 632
+  fork: 5034
+  release: 217
+  contributor: 910
+  pullRequest: 22954
+  issue: 18004
+language:
+  Rust: 41731326
+  C++: 11871732
+  TypeScript: 5628670
+  C: 1400967
+  JavaScript: 1054007
+  Shell: 191339
+  Python: 64549
+  PowerShell: 61121
+  CSS: 36510
+  Perl: 27120
+  Dockerfile: 25843
+  HCL: 22115
+  Linker Script: 12352
+  Nix: 7878
+  Svelte: 7198
+  HTML: 3224
+  Makefile: 1169
+  MDX: 864
+totalBytes: 62147984
+recent:
+  last30d:
+    since: 2026-08-12
+    release: 3
+    mergedPR: 828
+    openPR: 2484
+    closedIssue: 214
+    openIssue: 317
+    commit: 1133
+  last60d:
+    since: 2026-07-13
+    release: 3
+    mergedPR: 1675
+    openPR: 4395
+    closedIssue: 406
+    openIssue: 429
+    commit: 2372
+  last90d:
+    since: 2026-06-13
+    release: 3
+    mergedPR: 2175
+    openPR: 5111
+    closedIssue: 578
+    openIssue: 501
+    commit: 3042
+  last180d:
+    since: 2026-03-15
+    release: 7
+    mergedPR: 3138
+    openPR: 5605
+    closedIssue: 1301
+    openIssue: 848
+    commit: 4413
+  last360d:
+    since: 2025-09-16
+    release: 19
+    mergedPR: 4195
+    openPR: 5703
+    closedIssue: 3191
+    openIssue: 1408
+    commit: 6657
+  last720d:
+    since: 2024-09-21
+    release: 58
+    mergedPR: 6592
+    openPR: 5813
+    closedIssue: 6910
+    openIssue: 2397
+    commit: 7360
+total:
+  release: 217
+  mergedPR: 10371
+  openPR: 5816
+  closedIssue: 14574
+  openIssue: 3430
+  commit: 17964
+---
+path: /home/runner/.x-repo/github.com/oven-sh/bun
+collectedAt: 2026-09-11T06:18:24Z
+loc:
+  Rust:
+    code: 795191
+    comments: 100428
+    blanks: 79379
+    files: 1533
+  TypeScript:
+    code: 780798
+    comments: 125668
+    blanks: 83628
+    files: 3249
+  JavaScript:
+    code: 609368
+    comments: 54991
+    blanks: 65984
+    files: 7674
+  Json:
+    code: 219073
+    comments: 0
+    blanks: 54
+    files: 777
+  C:
+    code: 211078
+    comments: 80871
+    blanks: 20628
+    files: 128
+  Cpp:
+    code: 171465
+    comments: 19998
+    blanks: 28289
+    files: 606
+  CHeader:
+    code: 56492
+    comments: 28075
+    blanks: 13510
+    files: 768
+  Css:
+    code: 54453
+    comments: 5142
+    blanks: 4127
+    files: 36
+  Jsx:
+    code: 13398
+    comments: 67
+    blanks: 72
+    files: 40
+  Tsx:
+    code: 5946
+    comments: 752
+    blanks: 711
+    files: 176
+  Toml:
+    code: 3311
+    comments: 301
+    blanks: 487
+    files: 143
+  Sh:
+    code: 3028
+    comments: 463
+    blanks: 459
+    files: 38
+  Svelte:
+    code: 2362
+    comments: 3
+    blanks: 209
+    files: 108
+  Yaml:
+    code: 2195
+    comments: 199
+    blanks: 554
+    files: 43
+  Python:
+    code: 2184
+    comments: 256
+    blanks: 522
+    files: 8
+  PowerShell:
+    code: 1020
+    comments: 185
+    blanks: 179
+    files: 4
+  Zsh:
+    code: 1019
+    comments: 11
+    blanks: 167
+    files: 1
+  Html:
+    code: 810
+    comments: 15
+    blanks: 12
+    files: 21
+  Makefile:
+    code: 710
+    comments: 83
+    blanks: 178
+    files: 2
+  ModuleDef:
+    code: 679
+    comments: 7
+    blanks: 0
+    files: 1
+  LinkerScript:
+    code: 661
+    comments: 0
+    blanks: 8
+    files: 2
+  Svg:
+    code: 643
+    comments: 0
+    blanks: 4
+    files: 37
+  Dockerfile:
+    code: 479
+    comments: 77
+    blanks: 72
+    files: 9
+  Hcl:
+    code: 455
+    comments: 88
+    blanks: 66
+    files: 4
+  Protobuf:
+    code: 372
+    comments: 247
+    blanks: 101
+    files: 6
+  Perl:
+    code: 254
+    comments: 44
+    blanks: 37
+    files: 1
+  Nix:
+    code: 219
+    comments: 35
+    blanks: 25
+    files: 2
+  Bash:
+    code: 216
+    comments: 10
+    blanks: 27
+    files: 4
+  Fish:
+    code: 190
+    comments: 24
+    blanks: 46
+    files: 1
+  Sql:
+    code: 177
+    comments: 8
+    blanks: 6
+    files: 3
+  Autoconf:
+    code: 118
+    comments: 0
+    blanks: 2
+    files: 1
+  PostCss:
+    code: 95
+    comments: 0
+    blanks: 17
+    files: 1
+  Ini:
+    code: 53
+    comments: 28
+    blanks: 33
+    files: 2
+  Bitbake:
+    code: 42
+    comments: 15
+    blanks: 13
+    files: 4
+  Xml:
+    code: 20
+    comments: 1
+    blanks: 0
+    files: 8
+  Handlebars:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 27122
+    blanks: 13778
+    files: 1943
+  Text:
+    code: 0
+    comments: 67695
+    blanks: 3712
+    files: 120
+total:
+  code: 3012322
+  comments: 570794
+  blanks: 327253
+  files: 17505
+---
+
+---
