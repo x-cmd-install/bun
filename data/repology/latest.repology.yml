@@ -1,14 +1,3 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: bun
-  binname: bun
-  visiblename: bun
-  version: 1.4.0
-  origversion: 1.4.0-1
-  status: outdated
-  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-  licenses:
-    - MIT
 - repo: arch
   subrepo: extra
   srcname: bun
@@ -112,9 +101,9 @@
 - repo: homebrew
   srcname: bun
   visiblename: bun
-  version: 1.4.0
+  version: 1.4.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
 - repo: macports
   srcname: devel/bun
@@ -143,6 +132,17 @@
   licenses:
     - MIT
 - repo: manjaro_testing
+  subrepo: extra
+  srcname: bun
+  binname: bun
+  visiblename: bun
+  version: 1.4.0
+  origversion: 1.4.0-1
+  status: outdated
+  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+  licenses:
+    - MIT
+- repo: manjaro_unstable
   subrepo: extra
   srcname: bun
   binname: bun
