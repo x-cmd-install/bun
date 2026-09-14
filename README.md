@@ -14,15 +14,15 @@ x install bun
 
 ## Code insight
 
-Total: **2,942,140** lines of code across **13364** files in the top 5 languages.
+Total: **2,945,675** lines of code across **13367** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 795,582 | 100,431 | 79,410 | 1533 |
-| TypeScript | 783,452 | 125,901 | 83,770 | 3252 |
-| JavaScript | 609,426 | 55,004 | 65,989 | 7674 |
+| Rust | 794,967 | 100,352 | 79,372 | 1533 |
+| TypeScript | 786,666 | 126,096 | 83,937 | 3255 |
+| JavaScript | 610,034 | 55,043 | 66,039 | 7674 |
 | Json | 219,073 | 0 | 54 | 777 |
-| C | 211,313 | 80,926 | 20,644 | 128 |
+| C | 211,371 | 80,944 | 20,654 | 128 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **2,942,140** lines of code across **13364** files in the top 5 languages
 ## Release
 
 - **Latest**: `bun-v1.4.2` (2026-09-05)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-14
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 95,952 · **Forks**: 5,037 · **Open issues**: 18,047 · **Contributors**: 911
+- **Stars**: 95,964 · **Forks**: 5,041 · **Open issues**: 18,064 · **Contributors**: 911
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 10406 · **Open PRs**: 5994 · **Closed issues**: 14588 · **Open issues**: 3459 · **Commits**: 17997
+- **Releases**: 217 · **Merged PRs**: 10424 · **Open PRs**: 5205 · **Closed issues**: 14629 · **Open issues**: 3435 · **Commits**: 18014
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 775 | 2110 | 205 | 332 | 723 |
-| last60d | 2026-07-15 | 3 | 1655 | 4510 | 399 | 450 | 2056 |
-| 90d | 2026-06-15 | 3 | 2188 | 5255 | 579 | 530 | 2992 |
-| last180d | 2026-03-17 | 7 | 3167 | 5783 | 1289 | 874 | 4395 |
-| 360d | 2025-09-18 | 19 | 4223 | 5881 | 3183 | 1428 | 6602 |
-| last720d | 2024-09-23 | 58 | 6622 | 5990 | 6904 | 2423 | 7370 |
+| 30d | 2026-08-15 | 3 | 687 | 1889 | 217 | 316 | 745 |
+| last60d | 2026-07-16 | 3 | 1631 | 4131 | 407 | 445 | 2078 |
+| 90d | 2026-06-16 | 3 | 2192 | 4499 | 590 | 519 | 3014 |
+| last180d | 2026-03-18 | 7 | 3178 | 4994 | 1305 | 857 | 4417 |
+| 360d | 2025-09-19 | 19 | 4231 | 5091 | 3202 | 1414 | 6624 |
+| last720d | 2024-09-24 | 58 | 6628 | 5201 | 6926 | 2401 | 7383 |
 
 ## Release assets
 
@@ -98,17 +98,6 @@ Total: **2,942,140** lines of code across **13364** files in the top 5 languages
 | [SHASUMS256.txt](https://github.com/oven-sh/bun/releases/download/bun-v1.4.2/SHASUMS256.txt) | 3.4 KiB | `other` |
 | [SHASUMS256.txt.asc](https://github.com/oven-sh/bun/releases/download/bun-v1.4.2/SHASUMS256.txt.asc) | 3.6 KiB | `other` |
 
-## Distribution status
-
-Reported by **34** distros on [repology.org](https://repology.org/project/bun). **8** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.4.0` | ⚠️ outdated |
-| Homebrew | `1.4.2` | ✅ latest |
-| Nix unstable | `1.3.13` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.4.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for bun lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `bun` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -118,4 +107,4 @@ Install metadata for bun lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:28:18Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:44:09Z._
