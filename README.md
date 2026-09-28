@@ -38,22 +38,22 @@ Total: **3,041,484** lines of code across **13508** files in the top 5 languages
 
 ## Popularity
 
-- **Stars**: 96,047 · **Forks**: 5,065 · **Open issues**: 18,389 · **Contributors**: 913
+- **Stars**: 96,070 · **Forks**: 5,069 · **Open issues**: 18,420 · **Contributors**: 913
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 10704 · **Open PRs**: 5725 · **Closed issues**: 14734 · **Open issues**: 3655 · **Commits**: 18291
+- **Releases**: 217 · **Merged PRs**: 10704 · **Open PRs**: 5750 · **Closed issues**: 14740 · **Open issues**: 3680 · **Commits**: 18291
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 2 | 533 | 1891 | 144 | 405 | 531 |
-| last60d | 2026-07-29 | 3 | 1513 | 4105 | 396 | 650 | 1837 |
-| 90d | 2026-06-29 | 3 | 2246 | 4959 | 581 | 731 | 3007 |
-| last180d | 2026-03-31 | 6 | 3404 | 5504 | 1308 | 1055 | 4640 |
-| 360d | 2025-10-02 | 18 | 4407 | 5612 | 3140 | 1609 | 6628 |
-| last720d | 2024-10-07 | 58 | 6821 | 5722 | 6927 | 2605 | 7554 |
+| 30d | 2026-08-29 | 2 | 516 | 1891 | 145 | 425 | 531 |
+| last60d | 2026-07-30 | 3 | 1495 | 4103 | 397 | 675 | 1837 |
+| 90d | 2026-06-30 | 3 | 2226 | 4979 | 581 | 755 | 3007 |
+| last180d | 2026-04-01 | 6 | 3402 | 5530 | 1304 | 1077 | 4640 |
+| 360d | 2025-10-03 | 18 | 4397 | 5639 | 3137 | 1631 | 6628 |
+| last720d | 2024-10-08 | 58 | 6814 | 5747 | 6917 | 2627 | 7552 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for bun lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:36:26Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:44:21Z._
