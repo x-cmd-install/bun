@@ -14,14 +14,14 @@ x install bun
 
 ## Code insight
 
-Total: **3,054,921** lines of code across **13533** files in the top 5 languages.
+Total: **3,250,647** lines of code across **13675** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 883,412 | 136,075 | 90,242 | 3389 |
-| Rust | 804,104 | 100,429 | 79,924 | 1539 |
-| JavaScript | 612,819 | 53,836 | 65,468 | 7696 |
-| Json | 219,143 | 0 | 54 | 779 |
+| Rust | 969,799 | 113,774 | 86,920 | 1657 |
+| TypeScript | 901,416 | 137,506 | 90,547 | 3411 |
+| JavaScript | 612,820 | 53,837 | 65,469 | 7696 |
+| Json | 231,039 | 0 | 54 | 781 |
 | C | 211,891 | 80,933 | 20,743 | 130 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **3,054,921** lines of code across **13533** files in the top 5 languages
 ## Release
 
 - **Latest**: `bun-v1.4.2` (2026-09-05)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-07
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 96,135 · **Forks**: 5,092 · **Open issues**: 18,553 · **Contributors**: 912
+- **Stars**: 96,142 · **Forks**: 5,095 · **Open issues**: 18,577 · **Contributors**: 912
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 10774 · **Open PRs**: 5804 · **Closed issues**: 14761 · **Open issues**: 3792 · **Commits**: 18360
+- **Releases**: 217 · **Merged PRs**: 10777 · **Open PRs**: 5821 · **Closed issues**: 14762 · **Open issues**: 3815 · **Commits**: 18363
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 403 | 1586 | 113 | 486 | 461 |
-| last60d | 2026-08-07 | 3 | 1350 | 3952 | 371 | 768 | 1672 |
-| 90d | 2026-07-08 | 3 | 2173 | 4938 | 569 | 852 | 2891 |
-| last180d | 2026-04-09 | 6 | 3404 | 5571 | 1272 | 1164 | 4615 |
-| 360d | 2025-10-11 | 17 | 4388 | 5689 | 3041 | 1726 | 6595 |
-| last720d | 2024-10-16 | 57 | 6834 | 5800 | 6824 | 2722 | 7555 |
+| 30d | 2026-09-07 | 0 | 399 | 1556 | 110 | 501 | 465 |
+| last60d | 2026-08-08 | 3 | 1335 | 3964 | 369 | 787 | 1676 |
+| 90d | 2026-07-09 | 3 | 2151 | 4952 | 564 | 876 | 2895 |
+| last180d | 2026-04-10 | 6 | 3399 | 5578 | 1261 | 1186 | 4619 |
+| 360d | 2025-10-12 | 17 | 4378 | 5705 | 3015 | 1748 | 6599 |
+| last720d | 2024-10-17 | 57 | 6832 | 5817 | 6816 | 2742 | 7552 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for bun lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:52:50Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:16:28Z._
