@@ -14,13 +14,13 @@ x install bun
 
 ## Code insight
 
-Total: **4,125,462** lines of code across **15738** files in the top 5 languages.
+Total: **4,119,856** lines of code across **15738** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,405,410 | 115,188 | 116,132 | 3249 |
-| TypeScript | 1,205,362 | 162,203 | 109,019 | 3679 |
-| JavaScript | 635,301 | 55,235 | 66,587 | 7797 |
+| Rust | 1,402,133 | 113,733 | 115,787 | 3248 |
+| TypeScript | 1,202,952 | 162,063 | 109,049 | 3680 |
+| JavaScript | 635,356 | 55,237 | 66,593 | 7797 |
 | Json | 332,186 | 0 | 53 | 880 |
 | C | 212,974 | 81,087 | 20,857 | 133 |
 
@@ -32,71 +32,82 @@ Total: **4,125,462** lines of code across **15738** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `bun-v1.4.3` (2026-10-10)
-- **Last commit**: 2026-10-22
+- **Latest**: `bun-v1.4.4` (2026-10-22)
+- **Last commit**: 2026-10-23
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 96,337 · **Forks**: 5,129 · **Open issues**: 18,901 · **Contributors**: 913
+- **Stars**: 96,358 · **Forks**: 5,108 · **Open issues**: 18,936 · **Contributors**: 913
 
 ## Totals (cumulative)
 
-- **Releases**: 218 · **Merged PRs**: 10962 · **Open PRs**: 5643 · **Closed issues**: 15383 · **Open issues**: 3518 · **Commits**: 18545
+- **Releases**: 219 · **Merged PRs**: 10973 · **Open PRs**: 5670 · **Closed issues**: 15395 · **Open issues**: 3541 · **Commits**: 18556
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 264 | 1422 | 275 | 328 | 361 |
-| last60d | 2026-08-23 | 3 | 928 | 2961 | 668 | 530 | 1169 |
-| 90d | 2026-07-24 | 4 | 1886 | 4727 | 923 | 688 | 2524 |
-| last180d | 2026-04-25 | 5 | 3422 | 5390 | 1637 | 952 | 4585 |
-| 360d | 2025-10-27 | 17 | 4459 | 5526 | 3296 | 1456 | 6618 |
-| last720d | 2024-11-01 | 55 | 6949 | 5641 | 7236 | 2468 | 7655 |
+| 30d | 2026-09-23 | 2 | 267 | 1459 | 276 | 344 | 382 |
+| last60d | 2026-08-24 | 4 | 922 | 2964 | 658 | 533 | 1190 |
+| 90d | 2026-07-25 | 5 | 1888 | 4644 | 929 | 709 | 2545 |
+| last180d | 2026-04-26 | 6 | 3416 | 5414 | 1644 | 975 | 4606 |
+| 360d | 2025-10-28 | 18 | 4463 | 5553 | 3292 | 1477 | 6639 |
+| last720d | 2024-11-02 | 56 | 6957 | 5668 | 7242 | 2489 | 7659 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [bun-darwin-aarch64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-darwin-aarch64-profile.zip) | 139.1 MiB | `native/darwin/arm64` |
-| [bun-darwin-aarch64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-darwin-aarch64.zip) | 29.1 MiB | `native/darwin/arm64` |
-| [bun-darwin-x64-baseline-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-darwin-x64-baseline-profile.zip) | 150.0 MiB | `native/darwin/x64` |
-| [bun-darwin-x64-baseline.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-darwin-x64-baseline.zip) | 31.7 MiB | `native/darwin/x64` |
-| [bun-darwin-x64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-darwin-x64-profile.zip) | 150.0 MiB | `native/darwin/x64` |
-| [bun-darwin-x64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-darwin-x64.zip) | 31.7 MiB | `native/darwin/x64` |
-| [bun-freebsd-aarch64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-freebsd-aarch64-profile.zip) | 146.0 MiB | `other` |
-| [bun-freebsd-aarch64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-freebsd-aarch64.zip) | 37.9 MiB | `other` |
-| [bun-freebsd-x64-baseline-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-freebsd-x64-baseline-profile.zip) | 144.8 MiB | `other` |
-| [bun-freebsd-x64-baseline.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-freebsd-x64-baseline.zip) | 37.9 MiB | `other` |
-| [bun-freebsd-x64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-freebsd-x64-profile.zip) | 144.8 MiB | `other` |
-| [bun-freebsd-x64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-freebsd-x64.zip) | 37.9 MiB | `other` |
-| [bun-linux-aarch64-android-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-aarch64-android-profile.zip) | 360.7 MiB | `native/linux/arm64` |
-| [bun-linux-aarch64-android.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-aarch64-android.zip) | 37.4 MiB | `native/linux/arm64` |
-| [bun-linux-aarch64-musl-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-aarch64-musl-profile.zip) | 159.2 MiB | `native/linux/arm64/musl` |
-| [bun-linux-aarch64-musl.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-aarch64-musl.zip) | 36.4 MiB | `native/linux/arm64/musl` |
-| [bun-linux-aarch64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-aarch64-profile.zip) | 180.9 MiB | `native/linux/arm64` |
-| [bun-linux-aarch64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-aarch64.zip) | 39.9 MiB | `native/linux/arm64` |
-| [bun-linux-x64-android-baseline-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-x64-android-baseline-profile.zip) | 362.6 MiB | `other` |
-| [bun-linux-x64-android-baseline.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-x64-android-baseline.zip) | 39.2 MiB | `other` |
-| [bun-linux-x64-android-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-x64-android-profile.zip) | 362.6 MiB | `other` |
-| [bun-linux-x64-android.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-x64-android.zip) | 39.2 MiB | `other` |
-| [bun-linux-x64-baseline-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-x64-baseline-profile.zip) | 183.8 MiB | `other` |
-| [bun-linux-x64-baseline.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-x64-baseline.zip) | 40.1 MiB | `other` |
-| [bun-linux-x64-musl-baseline-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-x64-musl-baseline-profile.zip) | 158.2 MiB | `other` |
-| [bun-linux-x64-musl-baseline.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-x64-musl-baseline.zip) | 36.8 MiB | `other` |
-| [bun-linux-x64-musl-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-x64-musl-profile.zip) | 158.2 MiB | `other` |
-| [bun-linux-x64-musl.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-x64-musl.zip) | 36.8 MiB | `other` |
-| [bun-linux-x64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-x64-profile.zip) | 183.8 MiB | `other` |
-| [bun-linux-x64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-linux-x64.zip) | 40.1 MiB | `other` |
-| [bun-windows-aarch64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-windows-aarch64-profile.zip) | 196.0 MiB | `native/win/arm64` |
-| [bun-windows-aarch64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-windows-aarch64.zip) | 38.1 MiB | `native/win/arm64` |
-| [bun-windows-x64-baseline-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-windows-x64-baseline-profile.zip) | 233.4 MiB | `native/win/x64` |
-| [bun-windows-x64-baseline.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-windows-x64-baseline.zip) | 42.6 MiB | `native/win/x64` |
-| [bun-windows-x64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-windows-x64-profile.zip) | 233.4 MiB | `native/win/x64` |
-| [bun-windows-x64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/bun-windows-x64.zip) | 42.6 MiB | `native/win/x64` |
-| [SHASUMS256.txt](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/SHASUMS256.txt) | 3.4 KiB | `other` |
-| [SHASUMS256.txt.asc](https://github.com/oven-sh/bun/releases/download/bun-v1.4.3/SHASUMS256.txt.asc) | 3.6 KiB | `other` |
+| [bun-darwin-aarch64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-darwin-aarch64-profile.zip) | 178.6 MiB | `native/darwin/arm64` |
+| [bun-darwin-aarch64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-darwin-aarch64.zip) | 38.5 MiB | `native/darwin/arm64` |
+| [bun-darwin-x64-baseline-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-darwin-x64-baseline-profile.zip) | 190.3 MiB | `native/darwin/x64` |
+| [bun-darwin-x64-baseline.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-darwin-x64-baseline.zip) | 41.4 MiB | `native/darwin/x64` |
+| [bun-darwin-x64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-darwin-x64-profile.zip) | 190.3 MiB | `native/darwin/x64` |
+| [bun-darwin-x64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-darwin-x64.zip) | 41.4 MiB | `native/darwin/x64` |
+| [bun-freebsd-aarch64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-freebsd-aarch64-profile.zip) | 186.2 MiB | `other` |
+| [bun-freebsd-aarch64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-freebsd-aarch64.zip) | 47.1 MiB | `other` |
+| [bun-freebsd-x64-baseline-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-freebsd-x64-baseline-profile.zip) | 184.1 MiB | `other` |
+| [bun-freebsd-x64-baseline.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-freebsd-x64-baseline.zip) | 47.1 MiB | `other` |
+| [bun-freebsd-x64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-freebsd-x64-profile.zip) | 184.1 MiB | `other` |
+| [bun-freebsd-x64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-freebsd-x64.zip) | 47.1 MiB | `other` |
+| [bun-linux-aarch64-android-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-aarch64-android-profile.zip) | 402.1 MiB | `native/linux/arm64` |
+| [bun-linux-aarch64-android.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-aarch64-android.zip) | 46.7 MiB | `native/linux/arm64` |
+| [bun-linux-aarch64-musl-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-aarch64-musl-profile.zip) | 195.5 MiB | `native/linux/arm64/musl` |
+| [bun-linux-aarch64-musl.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-aarch64-musl.zip) | 45.6 MiB | `native/linux/arm64/musl` |
+| [bun-linux-aarch64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-aarch64-profile.zip) | 217.5 MiB | `native/linux/arm64` |
+| [bun-linux-aarch64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-aarch64.zip) | 49.3 MiB | `native/linux/arm64` |
+| [bun-linux-x64-android-baseline-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-x64-android-baseline-profile.zip) | 403.7 MiB | `other` |
+| [bun-linux-x64-android-baseline.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-x64-android-baseline.zip) | 48.9 MiB | `other` |
+| [bun-linux-x64-android-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-x64-android-profile.zip) | 403.7 MiB | `other` |
+| [bun-linux-x64-android.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-x64-android.zip) | 48.9 MiB | `other` |
+| [bun-linux-x64-baseline-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-x64-baseline-profile.zip) | 219.8 MiB | `other` |
+| [bun-linux-x64-baseline.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-x64-baseline.zip) | 49.4 MiB | `other` |
+| [bun-linux-x64-musl-baseline-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-x64-musl-baseline-profile.zip) | 194.0 MiB | `other` |
+| [bun-linux-x64-musl-baseline.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-x64-musl-baseline.zip) | 46.0 MiB | `other` |
+| [bun-linux-x64-musl-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-x64-musl-profile.zip) | 194.0 MiB | `other` |
+| [bun-linux-x64-musl.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-x64-musl.zip) | 46.0 MiB | `other` |
+| [bun-linux-x64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-x64-profile.zip) | 219.8 MiB | `other` |
+| [bun-linux-x64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-linux-x64.zip) | 49.4 MiB | `other` |
+| [bun-windows-aarch64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-windows-aarch64-profile.zip) | 231.3 MiB | `native/win/arm64` |
+| [bun-windows-aarch64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-windows-aarch64.zip) | 47.1 MiB | `native/win/arm64` |
+| [bun-windows-x64-baseline-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-windows-x64-baseline-profile.zip) | 271.5 MiB | `native/win/x64` |
+| [bun-windows-x64-baseline.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-windows-x64-baseline.zip) | 52.2 MiB | `native/win/x64` |
+| [bun-windows-x64-profile.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-windows-x64-profile.zip) | 271.5 MiB | `native/win/x64` |
+| [bun-windows-x64.zip](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/bun-windows-x64.zip) | 52.2 MiB | `native/win/x64` |
+| [SHASUMS256.txt](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/SHASUMS256.txt) | 3.4 KiB | `other` |
+| [SHASUMS256.txt.asc](https://github.com/oven-sh/bun/releases/download/bun-v1.4.4/SHASUMS256.txt.asc) | 3.6 KiB | `other` |
+
+## Distribution status
+
+Reported by **39** distros on [repology.org](https://repology.org/project/bun). **7** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.4.4` | ✅ latest |
+| Homebrew | `1.4.4` | ✅ latest |
+| Nix unstable | `1.4.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.4.2` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -107,4 +118,4 @@ Install metadata for bun lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:08:34Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:07:15Z._
