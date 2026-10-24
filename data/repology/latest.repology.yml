@@ -1,22 +1,23 @@
-- repo: wakemeops
-  subrepo: dev
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: bun
+  binname: bun
+  visiblename: bun
+  version: 1.4.4
+  origversion: 1.4.4-1
+  status: newest
+  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: bun
   binname: bun
   visiblename: bun
   version: 1.4.2
-  origversion: 1.4.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: aur
-  srcname: bun-bin
-  binname: bun-bin
-  visiblename: bun-bin
-  version: 1.4.2
-  origversion: 1.4.2-1
+  origversion: 1.4.2-3
   status: outdated
-  summary: All-in-one JavaScript runtime built for speed, with bundler, transpiler, test runner, and package manager. Includes bunx, shell completions and support for baseline CPUs
-  maintainers:
-    - leonnelc@aur
+  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
   licenses:
     - MIT
 - repo: alt_p11
@@ -60,6 +61,18 @@
   origversion: 1.4.4-1
   status: newest
   summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+  licenses:
+    - MIT
+- repo: aur
+  srcname: bun-bin
+  binname: bun-bin
+  visiblename: bun-bin
+  version: 1.4.2
+  origversion: 1.4.2-1
+  status: outdated
+  summary: All-in-one JavaScript runtime built for speed, with bundler, transpiler, test runner, and package manager. Includes bunx, shell completions and support for baseline CPUs
+  maintainers:
+    - leonnelc@aur
   licenses:
     - MIT
 - repo: aur
@@ -170,28 +183,6 @@
   visiblename: bun
   version: 1.4.0
   origversion: 1.4.0-1
-  status: outdated
-  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: bun
-  binname: bun
-  visiblename: bun
-  version: 1.4.2
-  origversion: 1.4.2-3
-  status: outdated
-  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: bun
-  binname: bun
-  visiblename: bun
-  version: 1.4.3
-  origversion: 1.4.3-1
   status: outdated
   summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
   licenses:
@@ -379,9 +370,9 @@
   srcname: bun
   binname: bun
   visiblename: bun
-  version: 1.4.3
+  version: 1.4.4
   origversion: null
-  status: outdated
+  status: newest
   summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
   maintainers:
     - gouranga.das.khulna@gmail.com
@@ -400,6 +391,15 @@
   visiblename: bun
   version: 1.4.3
   origversion: 1.4.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: bun
+  visiblename: bun
+  version: 1.4.2
+  origversion: 1.4.2-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
