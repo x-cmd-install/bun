@@ -69,16 +69,16 @@
 - repo: chocolatey
   binname: bun
   visiblename: Bun
-  version: 1.4.3
+  version: 1.4.4
   origversion: null
-  status: outdated
+  status: newest
   summary: A fast all-in-one JavaScript runtime
 - repo: chromebrew
   srcname: bun
   visiblename: bun
-  version: 1.4.3
+  version: 1.4.4
   origversion: null
-  status: outdated
+  status: newest
   summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
   licenses:
     - MIT
@@ -86,9 +86,9 @@
   subrepo: CleverCloud
   srcname: dev-node/bun-bin
   visiblename: dev-node/bun-bin
-  version: 1.4.3
+  version: 1.4.4
   origversion: null
-  status: outdated
+  status: newest
   summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager all in one
   maintainers:
     - fallback-mnt-exherbo@repology
@@ -126,6 +126,15 @@
   origversion: null
   status: newest
   summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
+- repo: wakemeops
+  subrepo: dev
+  binname: bun
+  visiblename: bun
+  version: 1.4.0
+  origversion: 1.4.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: liguros_develop
   srcname: dev-lang/bun-bin
   visiblename: dev-lang/bun-bin
@@ -409,15 +418,6 @@
   visiblename: bun
   version: 1.4.1
   origversion: 1.4.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: bun
-  visiblename: bun
-  version: 1.4.0
-  origversion: 1.4.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
