@@ -1,3 +1,30 @@
+- repo: scoop
+  subrepo: main
+  binname: bun
+  visiblename: bun
+  version: 1.4.4
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: bun
+  visiblename: Bun
+  version: 1.4.4
+  origversion: null
+  status: newest
+  summary: A fast all-in-one JavaScript runtime
+- repo: arch
+  subrepo: extra
+  srcname: bun
+  binname: bun
+  visiblename: bun
+  version: 1.4.4
+  origversion: 1.4.4-1
+  status: newest
+  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+  licenses:
+    - MIT
 - repo: alt_p11
   srcname: bun
   binnames:
@@ -30,24 +57,22 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND LGPL-2.1-or-later AND MIT AND MPL-2.0 AND Unicode-3.0 AND Zlib AND blessing
   categories:
     - Development/Other
-- repo: arch
-  subrepo: extra
-  srcname: bun
+- repo: wakemeops
+  subrepo: dev
   binname: bun
   visiblename: bun
-  version: 1.4.4
-  origversion: 1.4.4-1
-  status: newest
-  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-  licenses:
-    - MIT
+  version: 1.4.3
+  origversion: 1.4.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: aur
   srcname: bun-bin
   binname: bun-bin
   visiblename: bun-bin
-  version: 1.4.2
-  origversion: 1.4.2-1
-  status: outdated
+  version: 1.4.4
+  origversion: 1.4.4-1
+  status: newest
   summary: All-in-one JavaScript runtime built for speed, with bundler, transpiler, test runner, and package manager. Includes bunx, shell completions and support for baseline CPUs
   maintainers:
     - leonnelc@aur
@@ -66,13 +91,6 @@
     - yobson@aur
   licenses:
     - MIT
-- repo: chocolatey
-  binname: bun
-  visiblename: Bun
-  version: 1.4.4
-  origversion: null
-  status: newest
-  summary: A fast all-in-one JavaScript runtime
 - repo: chromebrew
   srcname: bun
   visiblename: bun
@@ -126,15 +144,6 @@
   origversion: null
   status: newest
   summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
-- repo: wakemeops
-  subrepo: dev
-  binname: bun
-  visiblename: bun
-  version: 1.4.0
-  origversion: 1.4.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: liguros_develop
   srcname: dev-lang/bun-bin
   visiblename: dev-lang/bun-bin
@@ -320,7 +329,7 @@
     - bun-webkit-static
   visiblename: bun
   version: 1.4.0
-  origversion: 1.4.0-13
+  origversion: 1.4.0-14
   status: outdated
   summary: JavaScript runtime, bundler, test runner and package manager
   maintainers:
@@ -356,15 +365,6 @@
   summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
   licenses:
     - MIT
-- repo: scoop
-  subrepo: main
-  binname: bun
-  visiblename: bun
-  version: 1.4.4
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: spack
   srcname: bun
   visiblename: bun
@@ -398,15 +398,6 @@
   subrepo: dev
   binname: bun
   visiblename: bun
-  version: 1.4.3
-  origversion: 1.4.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: bun
-  visiblename: bun
   version: 1.4.2
   origversion: 1.4.2-1~ops2deb
   status: legacy
@@ -418,6 +409,15 @@
   visiblename: bun
   version: 1.4.1
   origversion: 1.4.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: bun
+  visiblename: bun
+  version: 1.4.0
+  origversion: 1.4.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
