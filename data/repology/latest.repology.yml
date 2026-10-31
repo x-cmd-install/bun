@@ -1,30 +1,3 @@
-- repo: scoop
-  subrepo: main
-  binname: bun
-  visiblename: bun
-  version: 1.4.4
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
-- repo: chocolatey
-  binname: bun
-  visiblename: Bun
-  version: 1.4.4
-  origversion: null
-  status: newest
-  summary: A fast all-in-one JavaScript runtime
-- repo: arch
-  subrepo: extra
-  srcname: bun
-  binname: bun
-  visiblename: bun
-  version: 1.4.4
-  origversion: 1.4.4-1
-  status: newest
-  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-  licenses:
-    - MIT
 - repo: alt_p11
   srcname: bun
   binnames:
@@ -57,15 +30,17 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND LGPL-2.1-or-later AND MIT AND MPL-2.0 AND Unicode-3.0 AND Zlib AND blessing
   categories:
     - Development/Other
-- repo: wakemeops
-  subrepo: dev
+- repo: arch
+  subrepo: extra
+  srcname: bun
   binname: bun
   visiblename: bun
-  version: 1.4.3
-  origversion: 1.4.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
+  version: 1.4.4
+  origversion: 1.4.4-1
+  status: newest
+  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+  licenses:
+    - MIT
 - repo: aur
   srcname: bun-bin
   binname: bun-bin
@@ -91,6 +66,13 @@
     - yobson@aur
   licenses:
     - MIT
+- repo: chocolatey
+  binname: bun
+  visiblename: Bun
+  version: 1.4.4
+  origversion: null
+  status: newest
+  summary: A fast all-in-one JavaScript runtime
 - repo: chromebrew
   srcname: bun
   visiblename: bun
@@ -116,14 +98,31 @@
   srcname: lang/bun
   binname: bun
   visiblename: lang/bun
-  version: 1.4.2
+  version: 1.4.4
   origversion: null
-  status: outdated
+  status: newest
   summary: JavaScript runtime, bundler, test runner, and package manager
   maintainers:
     - yuri@freebsd.org
   categories:
     - lang
+- repo: openmandriva_rolling
+  subrepo: main/release
+  srcname: bun
+  binnames:
+    - bun
+    - bun-webkit-static
+  visiblename: bun
+  version: 1.4.0
+  origversion: 1.4.0-13
+  status: outdated
+  summary: JavaScript runtime, bundler, test runner and package manager
+  maintainers:
+    - bero@lindev.ch
+  licenses:
+    - MIT and LGPLv2+
+  categories:
+    - Development/Other
 - repo: gentoo_ovl_guru
   srcname: dev-lang/bun-bin
   visiblename: dev-lang/bun-bin
@@ -304,23 +303,15 @@
   licenses:
     - MIT
     - LGPL-2.1-only
-- repo: openmandriva_rolling
-  subrepo: main/release
-  srcname: bun
-  binnames:
-    - bun
-    - bun-webkit-static
-  visiblename: bun
-  version: 1.4.0
-  origversion: 1.4.0-13
-  status: outdated
-  summary: JavaScript runtime, bundler, test runner and package manager
-  maintainers:
-    - bero@lindev.ch
+- repo: wikidata
+  srcname: Q113048518
+  visiblename: Bun
+  version: 1.4.4
+  origversion: null
+  status: newest
+  summary: JavaScript runtime
   licenses:
-    - MIT and LGPLv2+
-  categories:
-    - Development/Other
+    - MIT License
 - repo: openmandriva_cooker
   subrepo: main/release
   srcname: bun
@@ -365,6 +356,15 @@
   summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
   licenses:
     - MIT
+- repo: scoop
+  subrepo: main
+  binname: bun
+  visiblename: bun
+  version: 1.4.4
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: spack
   srcname: bun
   visiblename: bun
@@ -392,6 +392,15 @@
   version: 1.4.4
   origversion: 1.4.4-1~ops2deb
   status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: bun
+  visiblename: bun
+  version: 1.4.3
+  origversion: 1.4.3-1~ops2deb
+  status: legacy
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -457,12 +466,3 @@
   status: legacy
   maintainers:
     - ops2deb@upciti.com
-- repo: wikidata
-  srcname: Q113048518
-  visiblename: Bun
-  version: 1.4.4
-  origversion: null
-  status: newest
-  summary: JavaScript runtime
-  licenses:
-    - MIT License
