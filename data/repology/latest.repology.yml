@@ -106,23 +106,6 @@
     - yuri@freebsd.org
   categories:
     - lang
-- repo: openmandriva_rolling
-  subrepo: main/release
-  srcname: bun
-  binnames:
-    - bun
-    - bun-webkit-static
-  visiblename: bun
-  version: 1.4.0
-  origversion: 1.4.0-13
-  status: outdated
-  summary: JavaScript runtime, bundler, test runner and package manager
-  maintainers:
-    - bero@lindev.ch
-  licenses:
-    - MIT and LGPLv2+
-  categories:
-    - Development/Other
 - repo: gentoo_ovl_guru
   srcname: dev-lang/bun-bin
   visiblename: dev-lang/bun-bin
@@ -171,28 +154,6 @@
     - LGPL-2
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: bun
-  binname: bun
-  visiblename: bun
-  version: 1.4.0
-  origversion: 1.4.0-1
-  status: outdated
-  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: bun
-  binname: bun
-  visiblename: bun
-  version: 1.4.2
-  origversion: 1.4.2-3
-  status: outdated
-  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: bun
@@ -303,15 +264,23 @@
   licenses:
     - MIT
     - LGPL-2.1-only
-- repo: wikidata
-  srcname: Q113048518
-  visiblename: Bun
-  version: 1.4.4
-  origversion: null
-  status: newest
-  summary: JavaScript runtime
+- repo: openmandriva_rolling
+  subrepo: main/release
+  srcname: bun
+  binnames:
+    - bun
+    - bun-webkit-static
+  visiblename: bun
+  version: 1.4.0
+  origversion: 1.4.0-13
+  status: outdated
+  summary: JavaScript runtime, bundler, test runner and package manager
+  maintainers:
+    - bero@lindev.ch
   licenses:
-    - MIT License
+    - MIT and LGPLv2+
+  categories:
+    - Development/Other
 - repo: openmandriva_cooker
   subrepo: main/release
   srcname: bun
@@ -466,3 +435,12 @@
   status: legacy
   maintainers:
     - ops2deb@upciti.com
+- repo: wikidata
+  srcname: Q113048518
+  visiblename: Bun
+  version: 1.4.4
+  origversion: null
+  status: newest
+  summary: JavaScript runtime
+  licenses:
+    - MIT License
