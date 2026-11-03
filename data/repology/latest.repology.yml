@@ -251,9 +251,9 @@
 - repo: nix_unstable
   srcname: bun
   visiblename: bun
-  version: 1.4.2
+  version: 1.4.4
   origversion: null
-  status: outdated
+  status: newest
   summary: Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one
   maintainers:
     - git@dov.dev
@@ -306,12 +306,12 @@
     - bun-debuginfo
     - bun-debugsource
   visiblename: bun
-  version: 1.4.2
-  origversion: 1.4.2-1.1
-  status: outdated
+  version: 1.4.4
+  origversion: 1.4.4-1.1
+  status: newest
   summary: Fast all-in-one JavaScript runtime and toolkit
   licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND LGPL-2.1-or-later AND MIT AND MPL-2.0 AND Unicode-3.0 AND Zlib AND blessing
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND IJG AND LGPL-2.1-or-later AND MIT AND MPL-2.0 AND Unicode-3.0 AND Zlib AND blessing
   categories:
     - Unspecified
 - repo: parabola
