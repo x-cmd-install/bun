@@ -314,6 +314,16 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND IJG AND LGPL-2.1-or-later AND MIT AND MPL-2.0 AND Unicode-3.0 AND Zlib AND blessing
   categories:
     - Unspecified
+- repo: pacstall
+  srcname: bun-bin
+  binname: bun-bin
+  visiblename: bun-bin
+  version: 1.4.4
+  origversion: 1.4.4-1
+  status: newest
+  summary: Incredibly fast JavaScript and TypeScript runtime, bundler, test runner, and package manager
+  maintainers:
+    - christian.brinkmann09@gmail.com
 - repo: parabola
   subrepo: extra
   srcname: bun
