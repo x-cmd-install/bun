@@ -1,3 +1,10 @@
+- repo: chocolatey
+  binname: bun
+  visiblename: Bun
+  version: 1.4.4
+  origversion: null
+  status: newest
+  summary: A fast all-in-one JavaScript runtime
 - repo: alt_p11
   srcname: bun
   binnames:
@@ -66,13 +73,6 @@
     - yobson@aur
   licenses:
     - MIT
-- repo: chocolatey
-  binname: bun
-  visiblename: Bun
-  version: 1.4.4
-  origversion: null
-  status: newest
-  summary: A fast all-in-one JavaScript runtime
 - repo: chromebrew
   srcname: bun
   visiblename: bun
@@ -232,6 +232,15 @@
   licenses:
     - MIT
     - LGPL-2.1-only
+- repo: wakemeops
+  subrepo: dev
+  binname: bun
+  visiblename: bun
+  version: 1.4.1
+  origversion: 1.4.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: nix_stable_26_05
   srcname: bun
   visiblename: bun
@@ -260,7 +269,6 @@
     - hello+nixpkgs@j-k.io
     - thilo.billerbeck@officerent.de
     - colton@donn.io
-    - me@diogodp.dev
   licenses:
     - MIT
     - LGPL-2.1-only
@@ -388,15 +396,6 @@
   visiblename: bun
   version: 1.4.2
   origversion: 1.4.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: bun
-  visiblename: bun
-  version: 1.4.1
-  origversion: 1.4.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
