@@ -14,12 +14,12 @@ x install bun
 
 ## Code insight
 
-Total: **5,943,948** lines of code across **40274** files in the top 5 languages.
+Total: **5,944,054** lines of code across **40274** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 2,041,385 | 250,541 | 151,848 | 12355 |
-| Rust | 1,776,229 | 115,364 | 142,697 | 4291 |
+| TypeScript | 2,041,486 | 250,548 | 151,861 | 12355 |
+| Rust | 1,776,234 | 115,364 | 142,697 | 4291 |
 | JavaScript | 1,151,202 | 119,579 | 81,280 | 20701 |
 | Json | 371,121 | 0 | 54 | 2783 |
 | C | 215,194 | 81,230 | 21,004 | 144 |
@@ -33,27 +33,27 @@ Total: **5,943,948** lines of code across **40274** files in the top 5 languages
 ## Release
 
 - **Latest**: `bun-v1.4.4` (2026-10-22)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-07
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 96,582 · **Forks**: 5,261 · **Open issues**: 19,168 · **Contributors**: 914
+- **Stars**: 96,671 · **Forks**: 5,272 · **Open issues**: 19,185 · **Contributors**: 914
 
 ## Totals (cumulative)
 
-- **Releases**: 219 · **Merged PRs**: 11058 · **Open PRs**: 6070 · **Closed issues**: 15473 · **Open issues**: 3695 · **Commits**: 18641
+- **Releases**: 219 · **Merged PRs**: 11059 · **Open PRs**: 6042 · **Closed issues**: 15475 · **Open issues**: 3710 · **Commits**: 18642
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 264 | 2084 | 162 | 402 | 380 |
-| last60d | 2026-09-07 | 2 | 676 | 3219 | 590 | 610 | 903 |
-| 90d | 2026-08-08 | 5 | 1616 | 5008 | 893 | 851 | 2160 |
-| last180d | 2026-05-10 | 6 | 3276 | 5783 | 1612 | 1102 | 4424 |
-| 360d | 2025-11-11 | 17 | 4467 | 5953 | 3133 | 1603 | 6615 |
-| last720d | 2024-11-16 | 55 | 6979 | 6068 | 7203 | 2631 | 7679 |
+| 30d | 2026-10-08 | 2 | 259 | 2036 | 145 | 395 | 381 |
+| last60d | 2026-09-08 | 2 | 653 | 3073 | 585 | 622 | 904 |
+| 90d | 2026-08-09 | 5 | 1605 | 4967 | 887 | 864 | 2161 |
+| last180d | 2026-05-11 | 6 | 3276 | 5753 | 1597 | 1113 | 4425 |
+| 360d | 2025-11-12 | 17 | 4454 | 5924 | 3124 | 1615 | 6616 |
+| last720d | 2024-11-17 | 55 | 6977 | 6040 | 7200 | 2641 | 7672 |
 
 ## Release assets
 
@@ -100,7 +100,7 @@ Total: **5,943,948** lines of code across **40274** files in the top 5 languages
 
 ## Distribution status
 
-Reported by **38** distros on [repology.org](https://repology.org/project/bun). **19** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **42** distros on [repology.org](https://repology.org/project/bun). **22** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -118,4 +118,4 @@ Install metadata for bun lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:08:56Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:20:28Z._
