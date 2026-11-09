@@ -38,22 +38,22 @@ Total: **5,635,461** lines of code across **40686** files in the top 5 languages
 
 ## Popularity
 
-- **Stars**: 96,700 · **Forks**: 5,272 · **Open issues**: 19,208 · **Contributors**: 914
+- **Stars**: 96,723 · **Forks**: 5,275 · **Open issues**: 19,232 · **Contributors**: 914
 
 ## Totals (cumulative)
 
-- **Releases**: 219 · **Merged PRs**: 11062 · **Open PRs**: 6124 · **Closed issues**: 15476 · **Open issues**: 3732 · **Commits**: 18643
+- **Releases**: 219 · **Merged PRs**: 11062 · **Open PRs**: 6208 · **Closed issues**: 15485 · **Open issues**: 3747 · **Commits**: 18643
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 256 | 2108 | 145 | 409 | 293 |
-| last60d | 2026-09-09 | 2 | 646 | 3140 | 583 | 639 | 704 |
-| 90d | 2026-08-10 | 5 | 1600 | 5043 | 883 | 873 | 1751 |
-| last180d | 2026-05-12 | 6 | 3273 | 5826 | 1592 | 1128 | 4361 |
-| 360d | 2025-11-13 | 17 | 4452 | 6005 | 3100 | 1631 | 6554 |
-| last720d | 2024-11-18 | 55 | 6977 | 6122 | 7189 | 2662 | 7672 |
+| 30d | 2026-10-10 | 2 | 254 | 2174 | 146 | 416 | 293 |
+| last60d | 2026-09-10 | 2 | 629 | 3196 | 579 | 655 | 704 |
+| 90d | 2026-08-11 | 5 | 1516 | 4990 | 881 | 887 | 1751 |
+| last180d | 2026-05-13 | 6 | 3270 | 5902 | 1589 | 1141 | 4361 |
+| 360d | 2025-11-14 | 17 | 4443 | 6089 | 3093 | 1643 | 6554 |
+| last720d | 2024-11-19 | 55 | 6961 | 6206 | 7182 | 2676 | 7671 |
 
 ## Release assets
 
@@ -118,4 +118,4 @@ Install metadata for bun lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:21:08Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:57:19Z._
