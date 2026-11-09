@@ -1,32 +1,48 @@
-- repo: wakemeops
-  subrepo: dev
-  binname: bun
-  visiblename: bun
-  version: 1.4.1
-  origversion: 1.4.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: arch
-  subrepo: extra
-  srcname: bun
+- repo: scoop
+  subrepo: main
   binname: bun
   visiblename: bun
   version: 1.4.4
-  origversion: 1.4.4-1
+  origversion: null
   status: newest
-  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
   licenses:
     - MIT
 - repo: wakemeops
   subrepo: dev
   binname: bun
   visiblename: bun
-  version: 1.4.0
-  origversion: 1.4.0-1~ops2deb
+  version: 1.3.13
+  origversion: 1.3.13-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: bun
+  visiblename: bun
+  version: 1.3.11
+  origversion: 1.3.11-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: bun
+  visiblename: bun
+  version: 1.3.10
+  origversion: 1.3.10-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wikidata
+  srcname: Q113048518
+  visiblename: Bun
+  version: 1.4.4
+  origversion: null
+  status: newest
+  summary: JavaScript runtime
+  licenses:
+    - MIT License
 - repo: alt_p11
   srcname: bun
   binnames:
@@ -59,6 +75,28 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND LGPL-2.1-or-later AND MIT AND MPL-2.0 AND Unicode-3.0 AND Zlib AND blessing
   categories:
     - Development/Other
+- repo: arch
+  subrepo: extra
+  srcname: bun
+  binname: bun
+  visiblename: bun
+  version: 1.4.4
+  origversion: 1.4.4-1
+  status: newest
+  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: bun
+  binname: bun
+  visiblename: bun
+  version: 1.4.4
+  origversion: 1.4.4-1
+  status: newest
+  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+  licenses:
+    - MIT
 - repo: aur
   srcname: bun-bin
   binname: bun-bin
@@ -75,8 +113,8 @@
   srcname: bun-git
   binname: bun-git
   visiblename: bun-git
-  version: 1.3.14.r2031.ga356964
-  origversion: 1.3.14.r2031.ga356964-1
+  version: 1.4.4.r92.g2596ac5
+  origversion: 1.4.4.r92.g2596ac5-1
   status: rolling
   summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
   maintainers:
@@ -124,15 +162,6 @@
     - yuri@freebsd.org
   categories:
     - lang
-- repo: wakemeops
-  subrepo: dev
-  binname: bun
-  visiblename: bun
-  version: 1.3.14
-  origversion: 1.3.14-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: gentoo_ovl_guru
   srcname: dev-lang/bun-bin
   visiblename: dev-lang/bun-bin
@@ -402,26 +431,6 @@
   summary: Incredibly fast JavaScript and TypeScript runtime, bundler, test runner, and package manager
   maintainers:
     - christian.brinkmann09@gmail.com
-- repo: parabola
-  subrepo: extra
-  srcname: bun
-  binname: bun
-  visiblename: bun
-  version: 1.4.4
-  origversion: 1.4.4-1
-  status: newest
-  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-  licenses:
-    - MIT
-- repo: scoop
-  subrepo: main
-  binname: bun
-  visiblename: bun
-  version: 1.4.4
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: spack
   srcname: bun
   visiblename: bun
@@ -473,8 +482,8 @@
   subrepo: dev
   binname: bun
   visiblename: bun
-  version: 1.3.13
-  origversion: 1.3.13-1~ops2deb
+  version: 1.4.1
+  origversion: 1.4.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -482,8 +491,8 @@
   subrepo: dev
   binname: bun
   visiblename: bun
-  version: 1.3.11
-  origversion: 1.3.11-1~ops2deb
+  version: 1.4.0
+  origversion: 1.4.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -491,17 +500,8 @@
   subrepo: dev
   binname: bun
   visiblename: bun
-  version: 1.3.10
-  origversion: 1.3.10-1~ops2deb
+  version: 1.3.14
+  origversion: 1.3.14-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
-- repo: wikidata
-  srcname: Q113048518
-  visiblename: Bun
-  version: 1.4.4
-  origversion: null
-  status: newest
-  summary: JavaScript runtime
-  licenses:
-    - MIT License
