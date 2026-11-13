@@ -1,19 +1,3 @@
-- repo: homebrew
-  srcname: bun
-  visiblename: bun
-  version: 1.4.4
-  origversion: null
-  status: newest
-  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
-- repo: wakemeops
-  subrepo: dev
-  binname: bun
-  visiblename: bun
-  version: 1.3.11
-  origversion: 1.3.11-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: alt_p11
   srcname: bun
   binnames:
@@ -150,6 +134,13 @@
     - MIT
   categories:
     - dev-lang
+- repo: homebrew
+  srcname: bun
+  visiblename: bun
+  version: 1.4.4
+  origversion: null
+  status: newest
+  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
 - repo: liguros_develop
   srcname: dev-lang/bun-bin
   visiblename: dev-lang/bun-bin
@@ -484,6 +475,15 @@
   visiblename: bun
   version: 1.3.13
   origversion: 1.3.13-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: bun
+  visiblename: bun
+  version: 1.3.11
+  origversion: 1.3.11-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
