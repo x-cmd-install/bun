@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 186451944,
       "digest": "sha256:2da83e4a5e857c6f88084bbe0a4d9ed5eb6b372b191229781578932cf89a1644",
-      "download_count": 159,
+      "download_count": 169,
       "created_at": "2026-11-19T07:58:34Z",
       "updated_at": "2026-11-19T07:58:39Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-darwin-aarch64-profile.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 39827261,
       "digest": "sha256:b5d6bc2e13caf14e57c89661e89efd073ff16165b41bfe43882616410609cd10",
-      "download_count": 20886,
+      "download_count": 38385,
       "created_at": "2026-11-19T07:58:34Z",
       "updated_at": "2026-11-19T07:58:35Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-darwin-aarch64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 199658168,
       "digest": "sha256:78706d9446838202bda3ef0fd70cbeb8697a3a1789699fb2ee3d09f92c0e317d",
-      "download_count": 119,
+      "download_count": 131,
       "created_at": "2026-11-19T07:58:58Z",
       "updated_at": "2026-11-19T07:59:06Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-darwin-x64-baseline-profile.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 43473877,
       "digest": "sha256:fb0121739a7e80e7511b6bfe4d2116422b48ba18a013acadef0c425348e95891",
-      "download_count": 122,
+      "download_count": 172,
       "created_at": "2026-11-19T07:58:55Z",
       "updated_at": "2026-11-19T07:58:58Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-darwin-x64-baseline.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 199657844,
       "digest": "sha256:1ac0d26c8f52210c431598bafceb5e508363ec2d25f0d7073a5ed471188a4ccb",
-      "download_count": 89,
+      "download_count": 97,
       "created_at": "2026-11-19T07:58:34Z",
       "updated_at": "2026-11-19T07:58:39Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-darwin-x64-profile.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 43473769,
       "digest": "sha256:a4972e778cce4b6a194d7d289f326aa61576d71d80b7a53e9da2f3739566e5fd",
-      "download_count": 1290,
+      "download_count": 2666,
       "created_at": "2026-11-19T07:58:34Z",
       "updated_at": "2026-11-19T07:58:35Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-darwin-x64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 195483469,
       "digest": "sha256:d2dd5df44d0af3082039e2060f3bc0f229df342ce113bb7df4aba6ea1ccf684a",
-      "download_count": 44,
+      "download_count": 56,
       "created_at": "2026-11-19T07:58:46Z",
       "updated_at": "2026-11-19T07:58:53Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-freebsd-aarch64-profile.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 49428761,
       "digest": "sha256:54b88c88b81265395017e8683de293a8e317ddb3ea7ddb4ae7c75a34d652c8c7",
-      "download_count": 26,
+      "download_count": 39,
       "created_at": "2026-11-19T07:58:46Z",
       "updated_at": "2026-11-19T07:58:47Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-freebsd-aarch64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 193328736,
       "digest": "sha256:79686ceacdd4203dfb4df8ebfd27e9b38f7bd69958a3404ee1866ba27891ee0c",
-      "download_count": 23,
+      "download_count": 33,
       "created_at": "2026-11-19T07:59:06Z",
       "updated_at": "2026-11-19T07:59:14Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-freebsd-x64-baseline-profile.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 49382981,
       "digest": "sha256:83293dc2416715d6dd72a987f37c0b580c316219fbdd0f10e13dd9ad0c6d4240",
-      "download_count": 22,
+      "download_count": 33,
       "created_at": "2026-11-19T07:59:04Z",
       "updated_at": "2026-11-19T07:59:06Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-freebsd-x64-baseline.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 193328664,
       "digest": "sha256:73651053cbb18f1a8fc7d8fe55c745c3cbc3ce8861b1af89f2e9c1e49e40f611",
-      "download_count": 23,
+      "download_count": 33,
       "created_at": "2026-11-19T07:58:48Z",
       "updated_at": "2026-11-19T07:58:54Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-freebsd-x64-profile.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 49382945,
       "digest": "sha256:59092091f9b87e7c005ea8d3e1667b5b04881c2c9b21c47152635377b0f91ed4",
-      "download_count": 27,
+      "download_count": 42,
       "created_at": "2026-11-19T07:58:47Z",
       "updated_at": "2026-11-19T07:58:49Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-freebsd-x64.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 421835623,
       "digest": "sha256:2973f021e5c91131a4fbb9d7ce094f2d46a30134df03db0c4ce8b1a1c20a436e",
-      "download_count": 15,
+      "download_count": 23,
       "created_at": "2026-11-19T07:58:42Z",
       "updated_at": "2026-11-19T07:58:58Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-aarch64-android-profile.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 48952305,
       "digest": "sha256:587471d26c8cc685debc5655cd5bf6d95d052a3b4a4956bdc922f8c6f1779396",
-      "download_count": 78,
+      "download_count": 215,
       "created_at": "2026-11-19T07:58:41Z",
       "updated_at": "2026-11-19T07:58:44Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-aarch64-android.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 205157679,
       "digest": "sha256:d014edab801ccacdb01aecb6a6438d26619494ab8e1c604a5d2a8998cf8a0f32",
-      "download_count": 23,
+      "download_count": 32,
       "created_at": "2026-11-19T07:58:39Z",
       "updated_at": "2026-11-19T07:58:45Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-aarch64-musl-profile.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 47901555,
       "digest": "sha256:d655765d3a0c0fdf707e27c7aa1a4f2c84f1bbc1f759db7e6e3d3c5be414396c",
-      "download_count": 448,
+      "download_count": 847,
       "created_at": "2026-11-19T07:58:38Z",
       "updated_at": "2026-11-19T07:58:40Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-aarch64-musl.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 227481626,
       "digest": "sha256:201761674e28e7f2fc0746d198c232d7435b83e40779490cb7b6eb2c622d43f0",
-      "download_count": 25,
+      "download_count": 36,
       "created_at": "2026-11-19T07:58:35Z",
       "updated_at": "2026-11-19T07:58:45Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-aarch64-profile.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 51133631,
       "digest": "sha256:18656a3bf0ea5641f5796ae4213b75255579a70a0fded2f337933785568cdf84",
-      "download_count": 23894,
+      "download_count": 43173,
       "created_at": "2026-11-19T07:58:34Z",
       "updated_at": "2026-11-19T07:58:36Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-aarch64.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 423513630,
       "digest": "sha256:8a63547d21ba056366685e4b195bf3e7db253f214f8c40fd2f68b9a471b07eb2",
-      "download_count": 32,
+      "download_count": 44,
       "created_at": "2026-11-19T07:59:03Z",
       "updated_at": "2026-11-19T07:59:19Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-x64-android-baseline-profile.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 51286969,
       "digest": "sha256:be89f1a91fe28f560a4fa51db860766e967109bdd6fcf370ff74d79228222c97",
-      "download_count": 44,
+      "download_count": 129,
       "created_at": "2026-11-19T07:59:02Z",
       "updated_at": "2026-11-19T07:59:04Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-x64-android-baseline.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 423513540,
       "digest": "sha256:b568084becf1b548bbd413643520400dea1d3383d1e65b1a4dce3ad4118d8e89",
-      "download_count": 31,
+      "download_count": 42,
       "created_at": "2026-11-19T07:58:45Z",
       "updated_at": "2026-11-19T07:58:58Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-x64-android-profile.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 51286933,
       "digest": "sha256:73e963d3e332ac261ef3fad48735bc1b0b7e719142e4484ff7fc0f377412c281",
-      "download_count": 50,
+      "download_count": 65,
       "created_at": "2026-11-19T07:58:44Z",
       "updated_at": "2026-11-19T07:58:46Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-x64-android.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 229973200,
       "digest": "sha256:a03d1287b69f9e9dee9ff3cc56ee6724939ce1517e812f3028a5a180c035f8b8",
-      "download_count": 49,
+      "download_count": 62,
       "created_at": "2026-11-19T07:58:58Z",
       "updated_at": "2026-11-19T07:59:08Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-x64-baseline-profile.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 51336091,
       "digest": "sha256:dcb23a18a1c2fff12d57bcef696dbbb42eb67fde29f43816ecb595459a24c463",
-      "download_count": 19257,
+      "download_count": 36020,
       "created_at": "2026-11-19T07:58:58Z",
       "updated_at": "2026-11-19T07:59:00Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-x64-baseline.zip"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 203591760,
       "digest": "sha256:312f29a5b7a5da87346ad07967aacfb0a7068debbab6d7241a0c770883906054",
-      "download_count": 49,
+      "download_count": 66,
       "created_at": "2026-11-19T07:59:02Z",
       "updated_at": "2026-11-19T07:59:08Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-x64-musl-baseline-profile.zip"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 48273337,
       "digest": "sha256:96fb94108eed872ff623ed39007d6b5699a83a5d0086fcfba84921c18145e3e6",
-      "download_count": 551,
+      "download_count": 1057,
       "created_at": "2026-11-19T07:59:00Z",
       "updated_at": "2026-11-19T07:59:03Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-x64-musl-baseline.zip"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 203591670,
       "digest": "sha256:6032278d4cdce182cc023bca31e5e784b35cf6a47c4f9fc9454207e3033b6584",
-      "download_count": 41,
+      "download_count": 51,
       "created_at": "2026-11-19T07:58:40Z",
       "updated_at": "2026-11-19T07:58:47Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-x64-musl-profile.zip"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 48273301,
       "digest": "sha256:9b6bdba1fa0914b6adfe48e4438212e2c106d9199b77ba642a9b8a3968a49a59",
-      "download_count": 2287,
+      "download_count": 3724,
       "created_at": "2026-11-19T07:58:39Z",
       "updated_at": "2026-11-19T07:58:41Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-x64-musl.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 229973092,
       "digest": "sha256:7569ec58e615aed00b9ba8b19979042b38bb33e49f5d17eb0a91dc04ab1cf6f0",
-      "download_count": 52,
+      "download_count": 77,
       "created_at": "2026-11-19T07:58:36Z",
       "updated_at": "2026-11-19T07:58:42Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-x64-profile.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 51336055,
       "digest": "sha256:94559b3b528995a49452f9f2404cec74f2efd7d06e0a000a8cd214b02c3666eb",
-      "download_count": 89131,
+      "download_count": 173703,
       "created_at": "2026-11-19T07:58:36Z",
       "updated_at": "2026-11-19T07:58:38Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-linux-x64.zip"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 242239407,
       "digest": "sha256:3f090abf011a652249ed89659ccfefe179fb13fb45db6dadb9f3579f5ffde3d1",
-      "download_count": 39,
+      "download_count": 52,
       "created_at": "2026-11-19T07:58:54Z",
       "updated_at": "2026-11-19T07:59:01Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-windows-aarch64-profile.zip"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 49051344,
       "digest": "sha256:41f57d49c3c6811888d9633c569e40b4eb1f7e92b5e5336e3abd3af03187d77a",
-      "download_count": 468,
+      "download_count": 904,
       "created_at": "2026-11-19T07:58:53Z",
       "updated_at": "2026-11-19T07:58:55Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-windows-aarch64.zip"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 284469238,
       "digest": "sha256:89b996dea8e06065f5aad7da14c41ecceb8cb1a74543218912b2b2a03499e1c5",
-      "download_count": 71,
+      "download_count": 100,
       "created_at": "2026-11-19T07:59:08Z",
       "updated_at": "2026-11-19T07:59:18Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-windows-x64-baseline-profile.zip"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 54438042,
       "digest": "sha256:3c081c73865e7a3453a9d514cc2ba3d699880621bcf67bb17241ff5194cb1d4b",
-      "download_count": 1953,
+      "download_count": 3265,
       "created_at": "2026-11-19T07:59:07Z",
       "updated_at": "2026-11-19T07:59:09Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-windows-x64-baseline.zip"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 284469030,
       "digest": "sha256:0221f96252b6d664bde3a129a528c72d85a2a8f02825098a5aa9e2fd4ae9c527",
-      "download_count": 66,
+      "download_count": 90,
       "created_at": "2026-11-19T07:58:53Z",
       "updated_at": "2026-11-19T07:59:02Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-windows-x64-profile.zip"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 54437990,
       "digest": "sha256:815ab45ec7f549abf87e6869584b506eab088e24225683957b7e150b47d6de30",
-      "download_count": 20999,
+      "download_count": 39190,
       "created_at": "2026-11-19T07:58:50Z",
       "updated_at": "2026-11-19T07:58:52Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/bun-windows-x64.zip"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 3431,
       "digest": "sha256:d7bb41dfb7becdc2d3d33f0d518e5693c62fba9ac14749426c68fe6e76a2c19d",
-      "download_count": 9056,
+      "download_count": 22682,
       "created_at": "2026-11-19T08:48:43Z",
       "updated_at": "2026-11-19T08:48:43Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/SHASUMS256.txt"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 3709,
       "digest": "sha256:2091113b267a5a7d5c9859820e91425d37418855f65886d25a785dea27774976",
-      "download_count": 1749,
+      "download_count": 3288,
       "created_at": "2026-11-19T08:48:44Z",
       "updated_at": "2026-11-19T08:48:44Z",
       "browser_download_url": "https://github.com/oven-sh/bun/releases/download/bun-v1.4.5/SHASUMS256.txt.asc"
@@ -1410,14 +1410,14 @@
   "body": "To install Bun v1.4.5\n```bash\ncurl -fsSL https://bun.com/install | bash\n# or you can use npm\n# npm install -g bun\n```\n\nWindows:\n```bash\npowershell -c \"irm bun.com/install.ps1|iex\"\n```\n\nTo upgrade to Bun v1.4.5:\n```bash\nbun upgrade\n```\n\n### [Read Bun v1.4.5's release notes on Bun's blog](https://bun.com/blog/bun-v1.4.5)\n\n### Thanks to 3 contributors!\n\n- [@dylan-conway](https://github.com/dylan-conway)\n- [@Jarred-Sumner](https://github.com/Jarred-Sumner)\n- [@robobun](https://github.com/robobun)\n",
   "reactions": {
     "url": "https://api.github.com/repos/oven-sh/bun/releases/451031435/reactions",
-    "total_count": 19,
-    "+1": 9,
+    "total_count": 24,
+    "+1": 11,
     "-1": 0,
     "laugh": 0,
-    "hooray": 2,
+    "hooray": 3,
     "confused": 0,
-    "heart": 2,
-    "rocket": 6,
+    "heart": 3,
+    "rocket": 7,
     "eyes": 0
   }
 }

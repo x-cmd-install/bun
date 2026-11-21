@@ -1,19 +1,14 @@
-- repo: wakemeops
-  subrepo: dev
+- repo: parabola
+  subrepo: extra
+  srcname: bun
   binname: bun
   visiblename: bun
-  version: 1.3.13
-  origversion: 1.3.13-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: homebrew
-  srcname: bun
-  visiblename: bun
-  version: 1.4.5
-  origversion: null
-  status: newest
-  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
+  version: 1.4.4
+  origversion: 1.4.4-1
+  status: outdated
+  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+  licenses:
+    - MIT
 - repo: alt_p11
   srcname: bun
   binnames:
@@ -36,9 +31,9 @@
     - bun
     - bun-debuginfo
   visiblename: bun
-  version: 1.4.4
-  origversion: 1.4.4-alt1
-  status: outdated
+  version: 1.4.5
+  origversion: 1.4.5-alt1
+  status: newest
   summary: Fast all-in-one JavaScript runtime and toolkit
   maintainers:
     - nenderus@altlinux.org
@@ -136,21 +131,6 @@
     - MIT
   categories:
     - dev-lang
-- repo: nix_unstable
-  srcname: bun
-  visiblename: bun
-  version: 1.4.4
-  origversion: null
-  status: outdated
-  summary: Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one
-  maintainers:
-    - git@dov.dev
-    - hello+nixpkgs@j-k.io
-    - thilo.billerbeck@officerent.de
-    - colton@donn.io
-  licenses:
-    - MIT
-    - LGPL-2.1-only
 - repo: gentoo_ovl_guru
   srcname: dev-lang/bun-bin
   visiblename: dev-lang/bun-bin
@@ -165,6 +145,13 @@
     - MIT
   categories:
     - dev-lang
+- repo: homebrew
+  srcname: bun
+  visiblename: bun
+  version: 1.4.5
+  origversion: null
+  status: newest
+  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
 - repo: liguros_develop
   srcname: dev-lang/bun-bin
   visiblename: dev-lang/bun-bin
@@ -324,6 +311,21 @@
   licenses:
     - MIT
     - LGPL-2.1-only
+- repo: nix_unstable
+  srcname: bun
+  visiblename: bun
+  version: 1.4.4
+  origversion: null
+  status: outdated
+  summary: Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one
+  maintainers:
+    - git@dov.dev
+    - hello+nixpkgs@j-k.io
+    - thilo.billerbeck@officerent.de
+    - colton@donn.io
+  licenses:
+    - MIT
+    - LGPL-2.1-only
 - repo: openmandriva_rolling
   subrepo: main/release
   srcname: bun
@@ -384,17 +386,6 @@
   summary: Incredibly fast JavaScript and TypeScript runtime, bundler, test runner, and package manager
   maintainers:
     - christian.brinkmann09@gmail.com
-- repo: parabola
-  subrepo: extra
-  srcname: bun
-  binname: bun
-  visiblename: bun
-  version: 1.4.4
-  origversion: 1.4.4-1
-  status: outdated
-  summary: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-  licenses:
-    - MIT
 - repo: scoop
   subrepo: main
   binname: bun
@@ -482,6 +473,15 @@
   subrepo: dev
   binname: bun
   visiblename: bun
+  version: 1.3.13
+  origversion: 1.3.13-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: bun
+  visiblename: bun
   version: 1.3.11
   origversion: 1.3.11-1~ops2deb
   status: legacy
@@ -499,9 +499,9 @@
 - repo: wikidata
   srcname: Q113048518
   visiblename: Bun
-  version: 1.4.4
+  version: 1.4.5
   origversion: null
-  status: outdated
+  status: newest
   summary: JavaScript runtime
   licenses:
     - MIT License
